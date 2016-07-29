@@ -12,6 +12,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'kaminari' # adds pagination to ActiveModels 
+gem 'responders', '~> 2.0' # Err - The controller-level `respond_to' feature has been extracted to the `responders` ge
 
 group :development, :test do
   gem 'byebug'
